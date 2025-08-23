@@ -1,5 +1,5 @@
 ![EmbeddedSystems](https://github.com/shiv-mm/Embedded/blob/797b2c9ad1c35dc63eb117dd003999cb35012cea/download.jpg)
-#  Embedded Projects with Vivado, C, and Flash Magic
+#  Embedded Projects with Vivado, C, , Proteus and Flash Magic
 
 Overview
 This repository houses a collection of embedded-system prototypes that combine FPGA logic (Vivado), bare-metal C applications, and on-chip flashing via Flash Magic. Each project includes HDL sources, C firmware, build scripts, and programming instructions for a seamless hardware-software workflow.
